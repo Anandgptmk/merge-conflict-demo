@@ -1,6 +1,6 @@
 class helloworld
 {
 	public static void main(string[] args){
-		system.out.ptintln("hello");
+		system.out.ptintln("hello world!");
 	}
 }
